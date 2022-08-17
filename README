@@ -1,0 +1,14 @@
+# QR Code Generator
+
+## Javaascript and Tailwindcss
+
+System to generate QR Code using URL from input field
+Simple app to generate and download a QR code that can be used to share a link.
+
+[Live Demo](https://)
+
+<img src="img/screen.png">
+
+### MIT License
+
+Copyright &copy; 2022 Hanibal Girmay
